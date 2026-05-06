@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <path
+        android:fillColor="#FFF5CC"
+        android:pathData="M60,60m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+
+    <path
+        android:fillColor="@color/sun_yellow"
+        android:pathData="M60,60m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <path
+        android:fillColor="@color/sun_orange"
+        android:pathData="M60,16l4,10h-8zM94,26l-2,10l-7,-5zM105,60l-10,4v-8zM94,94l-9,-5l7,-5zM60,104l-4,-10h8zM26,94l2,-10l7,5zM15,60l10,-4v8zM26,26l9,5l-7,5z" />
+
+    <path
+        android:fillColor="@color/cloud_shadow"
+        android:pathData="M33,77c0,-8.3 6.7,-15 15,-15c1.8,0 3.6,0.3 5.2,0.9c2.7,-6.1 8.8,-10.4 15.8,-10.4c9.4,0 17.2,7.7 17.5,17c7,0.8 12.5,6.7 12.5,13.9c0,7.7 -6.3,14 -14,14H48c-8.3,0 -15,-6.7 -15,-15.3z" />
+
+    <path
+        android:fillColor="@color/cloud_blue"
+        android:pathData="M28,72c0,-7.2 5.8,-13 13,-13c1.8,0 3.5,0.4 5.1,1.1c2.5,-5.8 8.2,-9.8 14.8,-9.8c9,0 16.4,7.1 16.9,16c6.6,0.5 11.8,6 11.8,12.7c0,7.1 -5.8,12.9 -12.9,12.9H41.2C33.9,91.9 28,86 28,78.7z" />
+</vector>

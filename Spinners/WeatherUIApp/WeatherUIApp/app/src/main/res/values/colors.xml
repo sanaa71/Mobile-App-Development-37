@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_top">#1D71F2</color>
+    <color name="sky_middle">#38B6FF</color>
+    <color name="sky_bottom">#87E0FF</color>
+    <color name="primary_button">#0F4CDE</color>
+    <color name="secondary_button">#FF7A59</color>
+    <color name="card_surface">#F7FBFF</color>
+    <color name="glass_surface">#33FFFFFF</color>
+    <color name="glass_border">#66FFFFFF</color>
+    <color name="input_surface">#F3F8FF</color>
+    <color name="tip_surface">#E6F1FF</color>
+    <color name="text_primary">#17324D</color>
+    <color name="text_secondary">#4D6985</color>
+    <color name="text_muted">#667E98</color>
+    <color name="sun_yellow">#FFC93C</color>
+    <color name="sun_orange">#FF9F1C</color>
+    <color name="cloud_blue">#D9E9FF</color>
+    <color name="cloud_shadow">#A8C7F0</color>
+    <color name="rain_blue">#2E8BFF</color>
+    <color name="wind_blue">#3A75C4</color>
+    <color name="sunny_top">#FFE082</color>
+    <color name="sunny_bottom">#FFF8E1</color>
+    <color name="rainy_top">#4A90E2</color>
+    <color name="rainy_bottom">#B3E5FC</color>
+    <color name="cloudy_top">#B0BEC5</color>
+    <color name="cloudy_bottom">#ECEFF1</color>
+    <color name="windy_top">#AED581</color>
+    <color name="windy_bottom">#E8F5E9</color>
+    <color name="card_sunny">#FFF6D8</color>
+    <color name="card_rainy">#E1F0FF</color>
+    <color name="card_cloudy">#EEF4FF</color>
+    <color name="card_windy">#E4F7FF</color>
+    <color name="splash_navy">#123B7A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
