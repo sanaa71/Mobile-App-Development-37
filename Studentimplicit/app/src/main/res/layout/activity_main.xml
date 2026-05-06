@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Table Layout for Registration Form -->
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+
+        <TableRow>
+            <TextView android:text="Name:"/>
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="wrap_content"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="Roll No:"/>
+            <EditText
+                android:id="@+id/etRoll"
+                android:layout_width="wrap_content"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="Course:"/>
+            <EditText
+                android:id="@+id/etCourse"
+                android:layout_width="wrap_content"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="Email:"/>
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="wrap_content"/>
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button_style"
+        android:elevation="8dp"
+        android:layout_marginTop="10dp"/>
+
+
+    <!-- ListView to Display Data -->
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
